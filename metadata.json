@@ -1,0 +1,12 @@
+{
+    "name": "NOBUY",
+    "symbol": "NOBUY",
+    "description": "DONT BUY",
+    "image": "https://raw.githubusercontent.com/llonzuf/test/refs/heads/main/No_sign.svg.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "test"
+      }
+    ]
+  }
